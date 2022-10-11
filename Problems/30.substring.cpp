@@ -35,9 +35,9 @@ class Solution {
 
         List<Integer> answer = new ArrayList<>();
         for (int i = 0; i < n - substringSize + 1; i++) {
-            if (check(i, s)) {
+            if (check(i, s)) 
                 answer.add(i);
-            }
+
         }
 
         return answer;
