@@ -23,4 +23,4 @@ public:
 
         return max(sub1, sub2);
     }
-};
+}
