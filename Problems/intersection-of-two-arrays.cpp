@@ -14,4 +14,10 @@ public:
         }
         return ans;
     }
+
+    int sum(int a , int b){
+        int k;
+        k=20;
+        return k+1;
+    }
 };
